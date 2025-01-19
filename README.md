@@ -1,4 +1,4 @@
-## Bem-vinde ao meu perfil
+## Bem-vinde ao meu perfil 💭
  <div>
    <a href="https://github.com/sumaia-sleiman">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumaia-sleiman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
